@@ -10,3 +10,5 @@ Starting to learn git
 
 Change most recent Git commit message
 git commit --amend (rewrite on last commition)
+
+## Make change from github
