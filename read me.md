@@ -14,3 +14,5 @@ git commit --amend (rewrite on last commition)
 ## Make change from github
 
 trying : git pull is sufficient
+
+--newupdate
